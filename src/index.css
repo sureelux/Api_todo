@@ -1,0 +1,109 @@
+@import url('https://fonts.googleapis.com/css2?family=Nunito&display=swap');
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+/* * {
+  box-sizing: border-box;
+  margin: 0;
+  padding: 0;
+} */
+/* body{
+  font-family: 'Nunito', sans-serif;
+} */
+
+/* .app {
+  background: orchid;
+  height: 100vh;
+  display: flex;
+  justify-content: center;
+  padding-top: 30px;
+} */
+
+/* .todo-app {
+  background: blanchedalmond;
+  width: 800px;
+  display: flex;
+  flex-direction: column;
+  gap: 8px;
+  overflow-y: auto;
+  border: 5px solid white;
+  border-radius: 5px;
+  box-shadow: 5px 5px 10px 10px rgba(50,50,50,.4);
+} */
+
+/* .dashboard {
+  background-color: greenyellow;
+  height: 100px;
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  padding-inline: 8px ;
+} */
+
+/* .form-add-todo {
+  background-color: aqua;
+  padding: 8px 16px;
+  display: flex;
+  gap: 2px;
+} */
+
+/* .form-add-todo > input {
+  flex-grow : 8;
+  font-size: large;
+  padding: 4px 8px;
+} */
+
+/* .form-add-todo > button {
+  background: o;
+  font-family: 'Nunito', sans-serif;
+  flex-grow : 2;
+} */
+
+/* .todo-container {
+  border: 1px dashed lime;
+  padding: 8px 10px;
+  display: flex;
+  flex-direction: column;
+  gap: 4px;
+}  */
+
+/* .todo-item {
+  background-color: lightcoral;
+  padding: 4px 8px;
+  display: flex;
+  justify-content: space-between;
+  font-size: large;
+  border: 5px solid white;
+} */
+/* .todo-item input {
+  font-family: 'Nunito', sans-serif;
+  width: 500px;
+} */
+
+/* .todo-item p{
+  width: 80%;
+  white-space: nowrap;
+  overflow-x: hidden;
+  text-overflow: ellipsis;
+} */
+
+/* .todo-item .btn-group {
+  display: flex;
+  gap: 4px;
+} */
+
+/* .todo-item .btn-group a {
+  background: white;
+  border: 2px solid silver;
+  padding: 2px 4px;
+  cursor: pointer;
+  border-radius: 5px;
+} */
+/* .btn-add{
+  font-family: 'Nunito', sans-serif;
+}
+ */
+
+
+
